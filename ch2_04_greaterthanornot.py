@@ -1,3 +1,5 @@
+#program to find the greater number
+
 a=34
 b=80
 if(a>b):

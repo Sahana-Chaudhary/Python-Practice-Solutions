@@ -1,3 +1,5 @@
+#f-string
+
 #1st method
 name=input("Enter a name: ")
 print(name + " Good Afternoon")

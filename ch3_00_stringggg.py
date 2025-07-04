@@ -1,8 +1,10 @@
+#string slicing
+
 #string can be written under '',"".''' '''
 
 a="sahana"
-short=len(a)
-print(short)      
+s=len(a)
+print(s)      
 
 #slicingggg
 sh=a[0:3]

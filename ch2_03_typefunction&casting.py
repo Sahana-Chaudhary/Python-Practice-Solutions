@@ -1,3 +1,5 @@
+#typecasting in python
+
 a=input("Enter a number: ")  #input type is always string
 print(type(a))
 
@@ -17,3 +19,5 @@ f="21.44"
 g=float(f)
 h=type(g)
 print(h)
+
+

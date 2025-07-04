@@ -1,3 +1,5 @@
+#case-sensitive functions in python
+
 name= "abcdef"
 print(len(name))                       #len
                                          #these are case sensitive functions
@@ -13,3 +15,7 @@ print(name.capitalize())                #capitalize the first letter
 
 a=" there is a \"girl\""
 print(a) 
+
+
+
+
