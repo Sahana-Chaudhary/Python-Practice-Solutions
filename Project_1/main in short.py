@@ -24,26 +24,22 @@ if(computer==you):
     print("Draw!")             
 
 else:
+#     if(computer==-1 and you==1):                #-2         #computer-you       
+#         print("You win!")               
+#     elif(computer==1 and you==0):               #1
+#         print("You win!")
+#     elif(computer==0 and you==-1):              #1
+#         print("you win!")
 
-'''
-    if(computer==-1 and you==1):                #-2         #computer-you       
-        print("You win!")               
-    elif(computer==1 and you==0):               #1
-        print("You win!")
-    elif(computer==0 and you==-1):              #1
-        print("you win!")
-
-    elif(computer==1 and you==-1):              #2
-        print("You lose!")
-    elif(computer==0 and you==1):               #-1
-        print("You lose!")
-    elif(computer==-1 and you==0):              #-1
-        print("You lose!")
-    else:
-        print("Something went wrong!!!!")
-Below logic is based on (Computer - you)
-
-'''
+#     elif(computer==1 and you==-1):              #2
+#         print("You lose!")
+#     elif(computer==0 and you==1):               #-1
+#         print("You lose!")
+#     elif(computer==-1 and you==0):              #-1
+#         print("You lose!")
+#     else:
+#         print("Something went wrong!!!!")
+# Below logic is based on (Computer - you)
 
     if ((computer-you)==-1 or (computer-you)==2):      #-1 and 2 lose   # 1 and -2 win 
         print("you lose!") 
