@@ -1,4 +1,4 @@
-import random       #random modeule for using randint
+import random       #random module for using randint
 
 def game():
     print("You are playing a game...")
