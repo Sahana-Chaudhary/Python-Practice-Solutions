@@ -12,3 +12,4 @@ def sum(n):
 
 n=int(input("Enter the number upto which u want sum: "))
 print(sum(n))
+
