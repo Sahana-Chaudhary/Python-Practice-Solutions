@@ -21,7 +21,7 @@ print(f"Computer chose {reverseDict[computer]}")              #show the choices 
 print(f"You chose {reverseDict[you]}")
 
 if(computer==you):
-    print("Draw!")             #
+    print("Draw!")             
 
 else:
     if(computer==-1 and you==1):
